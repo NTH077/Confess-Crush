@@ -1,12 +1,7 @@
 const CONFIG = {
     titleWeb: "Gửi em....<3",
     introTitle: 'Nguyễn Thị Hòa',
-    introDesc: `Đêm nay trăng sáng
-            Anh ôm cây đàn
-            Lan man câu hát
-            Đưa bước anh theo chân nàng
-            Em cho anh thấy
-            Cảm giác của mối tình đầu`,
+    introDesc: `Đêm nay trăng sáng, anh ôm cây đàn. Lan man câu hát đưa bước anh theo chân nàng. Em cho anh thấy Cảm giác của mối tình đầu`,
     btnIntro: '^^HiHi^^',
     title: 'Lâu chưa biết nhớ, cũng chẳng thấy mơ. Ngày đẹp trời nơi này bỗng nhiên em xuất hiện. Làm trái tim anh rung động 🥰',
     desc: 'Nếu như bây giờ ngỏ lời yêu?? Biết đâu ta trở thành một đôi ',
