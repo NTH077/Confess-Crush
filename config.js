@@ -1,19 +1,18 @@
 const CONFIG = {
     titleWeb: "This is for you",
     introTitle: 'Đào Thị Thùy Linh',
-    introDesc: `Đêm nay trăng sáng, anh ôm cây đàn. 
-        Lan man câu hát đưa bước anh theo chân nàng.
-        Em cho anh thấy Cảm giác của mối tình đầu`,
-    btnIntro: '^^HiHi^^',
-    title: 'Lâu chưa biết nhớ, cũng chẳng thấy mơ. Ngày đẹp trời nơi này bỗng nhiên em xuất hiện. Làm trái tim anh rung động ',
-    desc: 'Nếu như bây giờ ngỏ lời yêu?? Biết đâu ta trở thành một đôi ',
-    btnYes: 'Thích lắm <3<3',
-    btnNo: 'Không nha :3',
-    question: 'Anh tấn công em như vậy tại sao em còn chưa bỏ lớp chắn con tym ra cho anh vào hử :3',
+    introDesc: `Xin lỗi e, tôi đã không kìm nén được cảm xúc mà đã đi quá giới hạn,
+                và làm em cảm thấy không thích. `,
+    btnIntro: 'TT HUHU TT',
+    title: 'Chỉ vì cảm xúc lúc ây tôi dành cho em bống nhiên quá mãnh liệt, nên tôi đã hàng động hồ đồ. Toi xin lỗi',
+    desc: 'Em hết giận tui rùi đúng hơm dạ ??? ',
+    btnYes: 'Cũng nguôi nguôi 😇😇 !!',
+    btnNo: 'CHƯAAAAAAA  😤😤',
+    question: 'Vì e là một người đáng yêu và vô cùng rộng lượng nên sẽ tha lỗi cho tôi lần này đúng hơm dạ :(( ??',
     btnReply: 'SEND ME ❤',
-    reply: 'Tại em hơi ngại thui. Nhưng mà anh đáng yêu như thế này chắc là phải yêu hoi',
+    reply: 'Thoi được ròi. Định giận lâu lâu nhưng mà thầy đáng yêu như thế này, lại còn ngoan nữa nên tạm bỏ qua 😇😇',
     mess: 'Thầy biết mà 😛, Lớp diiuuuuu <<<<<<333333',
-    messDesc: 'Tối nay 10h, thầy mở lớp dậy lớp diu nhớ nt confirm ở đây nha.',
+    messDesc: 'Hết giận thầy thì nt vô đây để thầy biết nha 😘😘.',
     btnAccept: 'Dạaaaaa thầy ❤',
-    messLink: 'https://www.facebook.com/kinhkong.s2/' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://chat.zalo.me/?null' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
