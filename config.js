@@ -4,7 +4,7 @@ const CONFIG = {
     introDesc: `Xin lỗi e, tôi đã không kìm nén được cảm xúc mà đã đi quá giới hạn,
                 và làm em cảm thấy không thích. `,
     btnIntro: 'TT HUHU TT',
-    title: 'Chỉ vì cảm xúc lúc ây tôi dành cho em bống nhiên quá mãnh liệt, nên tôi đã hàng động hồ đồ. Toi xin lỗi',
+    title: 'Chỉ vì cảm xúc lúc ấy tôi dành cho em bống nhiên quá mãnh liệt, nên tôi đã hành động hồ đồ. Toi xin lỗi',
     desc: 'Em hết giận tui rùi đúng hơm dạ ??? ',
     btnYes: 'Cũng nguôi nguôi 😇😇 !!',
     btnNo: 'CHƯAAAAAAA  😤😤',
